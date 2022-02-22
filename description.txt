@@ -1,0 +1,10 @@
+Courses management : 
+- The former has the ability to create a new course , set it's startDate and endDate and mention if it is certified or not. The former
+also has the ability to punish and sunction learners due to many reasons. On the course end Certifications will be 
+awarded to learners who passed the quizz with a QR code. The Courses could be given to learners via PDF files , PPTs or also 
+live meetings . Quizz will be made by the former at the end of each session where the learner will get a mark. 
+If the course will be an interactive live session the former have to reserve a place and the needed materials and checks the 
+availability of the place.
+-Participants will have a list of the suggested courses depending on their previous searches at the end of each course learners will 
+have the ability to rate the course and the former . As a note participants could only participate in 2 courses at the same time.
+-
